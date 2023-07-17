@@ -6,7 +6,7 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 ## Desafio do Projeto de Métodos de Validação   
 
-# Projeto de Classificação do Conjunto de Dados Wine
+# Projeto de Classificação 
 
 Este é um projeto de classificação utilizando o conjunto de dados Wine da biblioteca scikit-learn. O objetivo é treinar um modelo de regressão logística para classificar diferentes tipos de vinho com base em suas características químicas.
 
@@ -38,7 +38,7 @@ Os atributos do conjunto de dados Wine são:
 ## Instalação
 
 1. Certifique-se de ter o Python 3 instalado em seu ambiente.
-2. Instale as bibliotecas necessárias executando o seguinte comando:
+2. Instale as bibliotecas necessárias 
 
 ## Resultados
 
